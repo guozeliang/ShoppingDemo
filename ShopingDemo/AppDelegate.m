@@ -10,8 +10,7 @@
 #import "SRFSurfboard.h"
 #import "ViewController.h"
 #import "AppConfigure.h"
-//#import sjdfsdkf
-//#import "<#header#>"
+
 @interface AppDelegate ()<SRFSurfboardDelegate>
 
 @end
